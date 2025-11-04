@@ -1,6 +1,6 @@
-# 🧠 MIT 6.100A — Introduction to Computer Science and Programming in Python
+# 🧠 MIT 6.100L — Introduction to Computer Science and Programming in Python
 
-This folder contains my solutions from the MIT 6.100A course.  
+This folder contains my solutions from the MIT 6.100L course.  
 Each problem set focuses on applying computer science fundamentals to real-world-style problems.  
 
 ---
